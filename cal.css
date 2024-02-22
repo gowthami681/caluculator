@@ -1,0 +1,21 @@
+body{
+    background-image: url("https://i.etsystatic.com/5295659/r/il/4c984c/1840179454/il_570xN.1840179454_hfjo.jpg"); 
+    background-repeat: no-repeat; 
+    background-size: 100%;
+}
+h1{
+    font-style:oblique;
+
+}
+button{
+    background-color: rgb(118, 113, 113);
+ }
+ #result{
+    background-color: rgb(148, 147, 147);
+ }
+ button:hover{
+              background-color: rgb(201, 193, 193);
+ }
+ h1{
+    color:antiquewhite;
+ }
